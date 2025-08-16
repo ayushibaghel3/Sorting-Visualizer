@@ -38,7 +38,7 @@ for i = 0 to n-1
         if arr[j] > arr[j+1]
             swap(arr[j], arr[j+1])
 </pre>
-<hr/>   
+<br/>  
   
 <b>Time Complexity:</b>
    
