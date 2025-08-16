@@ -2,9 +2,9 @@
 
 <p>An interactive Sorting Visualizer built using HTML, CSS, and JavaScript.
 Currently supports Bubble Sort, with smooth animations and a beautiful UI design.</p>
-<br
+<br/>
     
-<br
+<br/>
 
 
 <h3>🎯 Features</h3>
@@ -17,8 +17,8 @@ Modern UI – Gradient background, animated flaming title, responsive layout.
 
 Smooth Animations – Bars highlight during comparison and change colors once sorted.
 </u>
-<br
-<br
+<br/>
+<br/>
 
 <h3>🛠️ Tech Stack</h3>
 <u>
@@ -28,8 +28,8 @@ CSS3 for design & animations
 
 JavaScript (ES6) for sorting logic & interactivity
 </u>
-<br
-<br
+<br/>
+<br/>
 
 <h3>🧮 Bubble Sort Algorithm</h3>
 <p>
@@ -43,12 +43,12 @@ for i = 0 to n-1
             swap(arr[j], arr[j+1])
 
 </p> 
-<br
+<br/>
     
-<br
+<br/>
     
 <b>Time Complexity:</b>
-<br
+<br/>
     
 <u>
 Best Case: O(n) (when already sorted)
