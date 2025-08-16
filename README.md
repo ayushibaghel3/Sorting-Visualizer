@@ -1,7 +1,5 @@
 <div><h1>🔥 Sorting Visualizer</h1>
 <br/>
-<hr/>
-
 <p>An interactive Sorting Visualizer built using HTML, CSS, and JavaScript.
 Currently supports Bubble Sort, with smooth animations and a beautiful UI design.</p>
 <hr/>   
