@@ -6,23 +6,23 @@ Currently supports Bubble Sort, with smooth animations and a beautiful UI design
 <br/>
 <h3>🎯 Features</h3>
 <ul>
-Dynamic Array Generation – Generates a new random array with bars every time.
+<li>Dynamic Array Generation – Generates a new random array with bars every time.</li>
 
-Bubble Sort Visualization – Step-by-step sorting with animations.
+<li>Bubble Sort Visualization – Step-by-step sorting with animations.</li>
 
-Modern UI – Gradient background, animated flaming title, responsive layout.
+<li>Modern UI – Gradient background, animated flaming title, responsive layout.</li>
 
-Smooth Animations – Bars highlight during comparison and change colors once sorted.
+<li>Smooth Animations – Bars highlight during comparison and change colors once sorted.</li>
 </ul>
 <br/>
 <br/>
 <h3>🛠️ Tech Stack</h3>
 <ul>
-HTML5 for structure
+<li>HTML5 for structure</li>
 
-CSS3 for design & animations
+<li>CSS3 for design & animations</li>
 
-JavaScript (ES6) for sorting logic & interactivity
+<li>JavaScript (ES6) for sorting logic & interactivity</li>
 </ul>
 <br/>
 <br/>
@@ -43,13 +43,13 @@ for i = 0 to n-1
 <b>Time Complexity:</b>
 <br/>    
 <ul>
-Best Case: O(n) (when already sorted)
+<li>Best Case: O(n) (when already sorted)</li>
 
-Average Case: O(n²)
+<li>Average Case: O(n²)</li>
 
-Worst Case: O(n²)
+<li>Worst Case: O(n²)</li>
 
-Space Complexity: O(1)
+<li>Space Complexity: O(1)</li>
 </ul>    
       
    
